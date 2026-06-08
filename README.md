@@ -10,7 +10,7 @@ The corresponding paper is currently under review. The source code will be relea
 
 The dataset used in this study is publicly available on IEEE DataPort:
 
-Dataset for Deep Gesture Recognition under Data Loss 📘 DOI: 10.21227/ewtg-nj09
+Efficient-End-to-End-Raw-Radar-Gesture-Recognition-in-Motion  📘 DOI: 10.21227/ewtg-nj09
 
 🔗 Source Code Access
 
