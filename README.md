@@ -1,6 +1,6 @@
-End-to-End Motion-Robust Gesture Recognition from Raw FMCW Data
+End-to-End Motion-Robust-Gesture-Recognition-from Raw-Data
 
-Source code for “Efficient-End-to-End-Raw-Radar-Gesture-Recognition-in-Motion” FMCW mmWave Radar–Based Gesture & Action Recognition
+Source code for “End-to-End Motion-Robust Gesture Recognition from Raw FMCW Data” FMCW mmWave Radar–Based Gesture & Action Recognition
 
 📄 Publication Status
 
